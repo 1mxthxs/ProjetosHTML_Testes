@@ -1,0 +1,1 @@
+alert("A senha de Login é \"adim\" e \"adim\"")
