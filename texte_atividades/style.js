@@ -1,1 +1,1 @@
-alert("A senha de Login é \"adim\" e \"adim\"");
+alert("A senha de Login é \"admin\" e \"admin\"");
